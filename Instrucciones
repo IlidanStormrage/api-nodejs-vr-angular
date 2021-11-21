@@ -1,0 +1,16 @@
+CONEXION CON EL API REST NODE JS DE VICTOR ROBLES EL ULTIMO DEL 2021
+
+- INSTALACION DE DEPENDENCIAS DE ANGULAR
+    * Boostrap para la maquetacion   npm i bootstrap --save 
+    *jQuery ----        npm i jquery --save     ---   npm i @types/jquery --save(PARA MEJORAR COMPATIBILIDAD)
+    *ANgular2-moment ---- npm i angular2-moment --save
+    *ANgular file uploader   ---   npm i angular-file-uploader --save
+    *nowzoo/ngx-highlight-js   ---   npm i @nowzoo/ngx-highlight-js @nowzoo/sheetload --save
+
+
+
+
+QUEDO EN VIDEO TERMINADO DE 191
+ERRORES
+* APELLIDOS NO SALE CON LETRA ROJA DE ERROR- SOLUCIONADO
+* 	register(user): Observable<any>{ Debe ir con observable, sino el objeto user en registercomponents sale error
